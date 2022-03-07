@@ -430,6 +430,7 @@ for n_lam0 in range(N_lam0):
         TRN[n_lam0,n_phi] = DAT['TRN']
         CON[n_lam0,n_phi] = DAT['TRN'] + DAT['REF']
         if np.abs(DAT['TRN'] + DAT['REF']-1) >1e-3:
+            print('warning: total energy is not conserved at [lambda, phi angle] =  ' )
             print([lam_list[n_lam0],phi_list[n_phi]])
 
 
