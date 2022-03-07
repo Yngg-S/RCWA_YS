@@ -4,7 +4,7 @@ Created on Fri Mar  4 05:58:14 2022
 this code is tested on python 3.7
 not commented well yet.
 
-nex goal is to add features for anisotropic materials
+next goal of V2.0 is to add features for anisotropic materials
 
 
 
