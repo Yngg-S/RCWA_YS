@@ -5,7 +5,7 @@ This is one of my hobby projects and V1.0 is the start point.
 The goal is to play with those semi-analytical methods in modeling the device in python and have fun. The implementation is mostly following Dr. Raymond Rumpf's lecture and Dr. Moharam's paper (both are from UCF).
 
 
-My plan is to make this code work for spatial-variant and anisotropic devices.      
+My plan for next version is to make this code work for spatial-variant and anisotropic devices.      
 
 
 V1.0:
